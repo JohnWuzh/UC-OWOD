@@ -1,10 +1,13 @@
-## UC-OWOD: Unknown-Classified Open World Object Detection
-
+# UC-OWOD: Unknown-Classified Open World Object Detection
+## Problem setting
 ![avatar](problem.png)
+## Method
+![avatar](method.png)
+## Code
+The code is coming soon！
+### Installation
 
-## Installation
-
-## Getting Started
+### Getting Started
 
 ## Performance
 
