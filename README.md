@@ -1,6 +1,6 @@
 ## UC-OWOD: Unknown-Classified Open World Object Detection
 
-![avatar](intro.pdf)
+![avatar](problem.png)
 
 ## Installation
 
